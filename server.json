@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "aae95c8c-cd90-4089-861b-3eb54c6c00a5",
+      "name": "Ciclano",
+      "age": 35
+    },
+    {
+      "id": "a0f08adc-aa52-46eb-9fb6-12f59f25c469",
+      "name": "Erika",
+      "age": 43
+    },
+    {
+      "id": "789c12e0-17b4-4f86-b4d7-33e90735efda",
+      "name": "Josefa",
+      "age": 20
+    },
+    {
+      "id": "643d7fa6-750c-4f0a-9743-ea8b108f2990",
+      "name": "Arthur",
+      "age": 14
+    }
+  ],
+  "user": {
+    "id": "643d7fa6-750c-4f0a-9743-ea8b108f2990",
+    "name": "Arthur",
+    "age": 14
+  }
+}
